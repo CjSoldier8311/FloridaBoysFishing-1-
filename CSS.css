@@ -1,0 +1,125 @@
+
+body
+{
+ 
+  background-image: url('images/fishing-bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  color:white;
+}
+
+
+#wrapper
+{
+width:960px;
+margin-left:auto;
+margin-right:auto;
+background-color:#1469D9;
+padding:10px;
+border:1px solid ##1469D9;	
+}
+
+
+
+nav
+{
+background-color:#1469D9;
+text-align:center;	
+}
+
+nav a
+{
+color:#;
+padding-right:10px;	
+padding-left:10px;
+text-decoration:none;
+}
+
+nav a:hover
+{
+	color:#FFFFFF;
+	
+}
+
+article h1
+{
+font-size:22px;
+color:#ffffff;
+text-align:center;
+padding-top:15px;
+padding-bottom:15px;
+}
+
+article p
+{
+	padding-top:8px;
+	padding-bottom:8px;	
+}
+
+artcle a
+{
+	color:#1469D9;
+}
+
+article a:hover
+{
+	color:#1469D9;
+}
+
+article
+{
+	padding:10px;
+}
+
+footer
+{
+	height:100px;
+	clear:both;
+	text-align:center;
+	color:#0000ff;
+	font-size:13px;	
+}
+
+footer p{
+	padding-top:8px;
+	padding-bottom:8px;
+}
+
+footer a
+{
+	color:blue;
+	padding-right:10px;
+	padding-left:10px;
+	font-size:13px;
+	text-decoration:underline;
+}
+footer a:hover
+{
+color:#00E607;
+	text-decoration:none;
+}
+
+.left{
+	float:left;
+	margin-right:15px;
+}
+
+.right
+{
+	float:right;
+	margin-left:15px;
+}
+
+.center
+{
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+}
+
+table,th,td {
+	border: 1px, solid white
+}
